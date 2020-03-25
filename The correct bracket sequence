@@ -1,0 +1,18 @@
+def check(str)  #Check correct bracket sequence!
+  counter = 0
+
+  str.each_char do |char|
+    if char == '('
+      counter += 1
+    elsif char == ')'
+      counter -= 1
+    end
+    
+    if counter < 0 
+      return false
+    end
+
+  end
+
+  return counter == 0
+end
