@@ -1,4 +1,4 @@
-def check(str)  #Check correct bracket sequence!
+def check(str)  #Check correct bracket sequence in string!
   counter = 0
 
   str.each_char do |char|
