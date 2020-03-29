@@ -1,4 +1,4 @@
-def valid_brackets?(str)  #Check correct bracket sequence in string!
+def valid_brackets?(str)  #Checking the correct sequence of brackets in a string!
   counter = 0
 
   str.each_char do |char|
