@@ -1,4 +1,0 @@
-def palindrome?(str)  #Checking a string on a palindrome
-  true_str = str.downcase.scan(/\w/)
-  true_str == true_str.reverse
-end
