@@ -1,4 +1,6 @@
 # ndl_string
+[![Gem Version](https://badge.fury.io/rb/ndl_string.svg)](https://badge.fury.io/rb/ndl_string)
+
 
 Hi! This is my Rubygem, which adds some new features to the standard ruby string.
 
