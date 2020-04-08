@@ -28,5 +28,5 @@ Checking the correct sequence of brackets in a string
 
     .valid_brackets?
     
-#Testing
+## Testing
 Run `rake spec` to run the tests. To install this gem onto your local machine, run `bundle exec rake install`.
