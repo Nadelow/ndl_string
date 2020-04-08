@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-# Specify your gem's dependencies in test.gemspec
+# Specify your gem's dependencies in ndl_string.gemspec
 gemspec
 
 gem "rake", "~> 12.0"
